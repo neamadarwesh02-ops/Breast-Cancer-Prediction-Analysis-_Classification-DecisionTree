@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction-Analysis-_Classification-DecisionTree
 A machine learning project using Decision Tree Classifier to predict breast cancer malignancy based on diagnostic features, including data preprocessing and performance evaluation
 
-#Applying data science techniques to healthcare datasets to bridge the gap between clinical expertise and predictive analytics
+Applying data science techniques to healthcare datasets to bridge the gap between clinical expertise and predictive analytics
 # Breast Cancer Prediction using Decision Tree
 
 ## 📌 Project Overview
